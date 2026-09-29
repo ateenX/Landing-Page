@@ -1,3 +1,7 @@
 /*
 Put a display flow in the body
 */
+
+.body{
+    display: flex;
+}
