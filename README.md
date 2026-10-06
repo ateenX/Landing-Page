@@ -1,2 +1,3 @@
 # Landing-Page
-Project
+
+Using this project to learn Design in CSS
